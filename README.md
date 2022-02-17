@@ -1,5 +1,5 @@
 # MSTeams-AntiAFK
 # Start MSTeams-AntiAFK
 # Click "Start"
-# Finish stay online now
+# Finish, you stay online now
 # Thx you <3
